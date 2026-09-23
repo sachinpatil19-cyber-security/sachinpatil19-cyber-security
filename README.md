@@ -1,106 +1,121 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sachin%20Patil&fontSize=48&fontColor=ffffff&desc=VAPT%20%7C%20Web,%20API%20%26%20Network%20Penetration%20Testing&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · sachinpatil19-cyber-security</sub></p>
+<h1>sachinpatil19-cyber-security</h1>
+<h2>VAPT | Web, API & Network Penetration Testing</h2>
+<p>Cyber Security Associate — full VAPT lifecycle, OWASP methodology, CVSS-based reporting.</p>
+<p><strong>&#9679; 45+ VAPT engagements across 10+ client environments</strong></p>
 
-<a href="https://linkedin.com/in/sachin-patil-9ab496316"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sachinpatil012819@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/sachinpatil19-cyber-security"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=45%2B+authorized+VAPT+engagements;10%2B+client+environments+secured;OWASP+Top+10+%7C+CVSS+risk+scoring;CEH+in+progress;&font=Fira+Code&center=true&width=560&height=40&color=2C5364&vCenter=true&size=20"/>
-
+<p><a href="https://github.com/sachinpatil19-cyber-security">GitHub</a> &middot; <a href="https://linkedin.com/in/sachin-patil-9ab496316">LinkedIn</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=sachinpatil19-cyber-security&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251276579%3Fu%3D0499feefcee1596aa509cc9190f09f2aac100a69%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=sachinpatil19-cyber-security&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251276579%3Fu%3D0499feefcee1596aa509cc9190f09f2aac100a69%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="sachinpatil19-cyber-security animated colored ASCII portrait" />
+</picture>
+</td>
+</tr>
+</table>
 </div>
 
-<br/>
+<h2>What teams can evaluate quickly</h2>
 
-## &#128737; About
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>VAPT / Cyber Security Associate &middot; Burp Suite &middot; Nessus &middot; Nmap</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>1 repositories &middot; 0 stars</p></td>
+<td width="33%" valign="top"><h3>Track record</h3><p>45+ engagements &middot; 10+ clients &middot; CEH in progress</p></td>
+</tr>
+</table>
 
-Cyber Security Associate specializing in Web, API, and Network **Vulnerability Assessment & Penetration Testing (VAPT)**.
-Hands-on across the full lifecycle &mdash; reconnaissance, vulnerability identification, manual/automated testing,
-exploitation validation, and PoC development &mdash; using OWASP methodology and CVSS-based risk scoring to deliver
-client-ready reports with prioritized remediation.
+<p><sub>Full VAPT lifecycle: reconnaissance &rarr; vulnerability identification &rarr; manual/automated testing &rarr; exploitation validation &rarr; PoC &rarr; client-ready reporting.</sub></p>
 
-- &#128269; **45+** authorized VAPT engagements across **10+** client environments
-- &#128202; Average **7&ndash;8** vulnerabilities identified per engagement
-- &#128257; Led remediation validation & retesting across **10+** clients
-- &#128737;&#65039; SOC background: phishing/malware triage, IOC enrichment (VirusTotal, AbuseIPDB)
+<h2>Proof at a glance</h2>
 
-<br/>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>45+</strong><br /><sub>VAPT Engagements</sub></td>
+<td width="25%" align="center"><strong>10+</strong><br /><sub>Client Environments</sub></td>
+<td width="25%" align="center"><strong>7&ndash;8</strong><br /><sub>Avg Vulns / Engagement</sub></td>
+<td width="25%" align="center"><strong>10+</strong><br /><sub>Retest &amp; Closure Cycles</sub></td>
+</tr>
+</table>
 
-## &#128295; Toolkit
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sachinpatil19-cyber-security&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251276579%3Fu%3D0499feefcee1596aa509cc9190f09f2aac100a69%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=sachinpatil19-cyber-security&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251276579%3Fu%3D0499feefcee1596aa509cc9190f09f2aac100a69%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="sachinpatil19-cyber-security GitHub proof metrics" />
+</picture>
+</p>
 
-<div align="center">
+<h2>Selected work</h2>
 
-<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,postman&theme=dark" />
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sachinpatil19-cyber-security&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251276579%3Fu%3D0499feefcee1596aa509cc9190f09f2aac100a69%26v%3D4&repos=sachinpatil19-cyber-security%2Fsoc-ioc-enrichment-dashboard&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=sachinpatil19-cyber-security&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251276579%3Fu%3D0499feefcee1596aa509cc9190f09f2aac100a69%26v%3D4&repos=sachinpatil19-cyber-security%2Fsoc-ioc-enrichment-dashboard&v=recruiter-projects-1&mode=dark" width="100%" alt="sachinpatil19-cyber-security selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/sachinpatil19-cyber-security/soc-ioc-enrichment-dashboard">soc-ioc-enrichment-dashboard</a></h3>
+<p>IOC enrichment dashboard for SOC &mdash; ingest, enrich, and visualize indicators of compromise (IOCs), built on hands-on SOC triage experience with VirusTotal and AbuseIPDB.</p>
+<p><sub>Python &middot; &#11088; 0 &middot; &#127807; 0</sub></p>
+<p><a href="https://github.com/sachinpatil19-cyber-security/soc-ioc-enrichment-dashboard">Read the repository &rarr;</a></p>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+<h3>Web Application Penetration Testing</h3>
+<p>End-to-end security assessments of intentionally vulnerable web apps &mdash; identified SQL Injection, XSS, Broken Authentication, IDOR, Security Misconfiguration, and File Upload flaws. Compiled full PT reports with remediation guidance.</p>
+<p><sub>Add a repo link here once a sanitized writeup/PoC repo is published.</sub></p>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nessus-00B4D8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLMap-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/FFUF-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gobuster-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Nuclei-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Wappalyzer-4285F4?style=flat-square"/>
+<h2>Technical toolkit</h2>
 
-</div>
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><h4>VAPT</h4><p><sub>Web App VAPT &middot; Network VA &middot; Config Audit &middot; Black/Gray/White Box &middot; CVSS Scoring &middot; PoC Development</sub></p></td>
+<td width="25%" valign="top"><h4>Security Tools</h4><p><sub>Burp Suite &middot; Nmap &middot; Nessus &middot; Kali Linux &middot; SQLMap &middot; FFUF &middot; Gobuster &middot; Nuclei &middot; Postman &middot; Wappalyzer</sub></p></td>
+<td width="25%" valign="top"><h4>Networking</h4><p><sub>TCP/IP &middot; DNS &middot; DHCP &middot; SSL/TLS &middot; OSI Model &middot; HTTP/HTTPS &middot; Enumeration</sub></p></td>
+<td width="25%" valign="top"><h4>Web/API</h4><p><sub>IDOR &middot; SQLi &middot; XSS &middot; Broken Auth &middot; File Upload &middot; Security Misconfig</sub></p></td>
+</tr>
+</table>
 
-**Focus areas:** IDOR &middot; SQL Injection &middot; XSS &middot; Broken Authentication &middot; File Upload Security &middot; Security Misconfiguration
-**Networking:** TCP/IP &middot; DNS &middot; DHCP &middot; SSL/TLS &middot; OSI Model &middot; HTTP/HTTPS
+<h2>Certifications</h2>
 
-<br/>
+<table width="100%">
+<tr>
+<td width="50%" align="center"><strong>Sophos Central Endpoint Protection Engineer</strong></td>
+<td width="50%" align="center"><strong>Certified Ethical Hacker (CEH)</strong><br /><sub>In Progress</sub></td>
+</tr>
+</table>
 
-## &#128193; Selected Work
+<h2>Consistency signal</h2>
 
-<div align="center">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=sachinpatil19-cyber-security&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251276579%3Fu%3D0499feefcee1596aa509cc9190f09f2aac100a69%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=sachinpatil19-cyber-security&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251276579%3Fu%3D0499feefcee1596aa509cc9190f09f2aac100a69%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="sachinpatil19-cyber-security contribution activity" />
+</picture>
+</p>
 
-<a href="https://github.com/sachinpatil19-cyber-security/soc-ioc-enrichment-dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sachinpatil19-cyber-security&repo=soc-ioc-enrichment-dashboard&theme=github_dark&hide_border=true" />
-</a>
+<hr />
 
-</div>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let's talk about the next engagement</h2><p>Open to VAPT / Cyber Security Associate roles &mdash; Web, API, and Network penetration testing.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/sachinpatil19-cyber-security">GitHub</a></td>
+</tr>
+</table>
 
-> **Web Application Penetration Testing** &mdash; End-to-end assessments of intentionally vulnerable web apps.
-> Identified SQL Injection, XSS, Broken Authentication, IDOR, Security Misconfiguration & File Upload flaws.
-> Compiled full PT reports with remediation guidance. *(Repo link pending &mdash; sanitized writeup not yet published)*
-
-<br/>
-
-## &#128202; GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sachinpatil19-cyber-security&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=sachinpatil19-cyber-security&theme=github-dark-blue&hide_border=true" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinpatil19-cyber-security&theme=react-dark&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-## &#127942; Certifications
-
-| Certification | Status |
-|---|---|
-| Sophos Central Endpoint Protection Engineer | &#9989; Completed |
-| Certified Ethical Hacker (CEH) | &#8987; In Progress |
-
-<br/>
-
-## &#127891; Education
-
-**B.Sc. Information Technology** &mdash; Mumbai University (2022&ndash;2025)
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
-
-<sub>Open to VAPT / Cyber Security Associate roles &middot; Mumbai, Maharashtra</sub>
-
-</div>
+<p align="center"><sub>sachinpatil19-cyber-security &middot; Mumbai, Maharashtra</sub></p>
