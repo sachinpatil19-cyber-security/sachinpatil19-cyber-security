@@ -1,24 +1,7 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · sachinpatil19-cyber-security</sub></p>
-<h1>sachinpatil19-cyber-security</h1>
-<h2>VAPT | Web, API & Network Penetration Testing</h2>
-<p>Cyber Security Associate — full VAPT lifecycle, OWASP methodology, CVSS-based reporting.</p>
-<p><strong>&#9679; 45+ VAPT engagements across 10+ client environments</strong></p>
+<img src="header-banner.svg" width="100%" alt="sachinpatil19-cyber-security recruiter signal brief" />
 
-<p><a href="https://github.com/sachinpatil19-cyber-security">GitHub</a> &middot; <a href="https://linkedin.com/in/sachin-patil-9ab496316">LinkedIn</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=sachinpatil19-cyber-security&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251276579%3Fu%3D0499feefcee1596aa509cc9190f09f2aac100a69%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=sachinpatil19-cyber-security&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251276579%3Fu%3D0499feefcee1596aa509cc9190f09f2aac100a69%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="sachinpatil19-cyber-security animated colored ASCII portrait" />
-</picture>
-</td>
-</tr>
-</table>
 </div>
 
 <h2>What teams can evaluate quickly</h2>
@@ -114,7 +97,7 @@
 <table width="100%">
 <tr>
 <td width="62%" valign="middle"><h2>Let's talk about the next engagement</h2><p>Open to VAPT / Cyber Security Associate roles &mdash; Web, API, and Network penetration testing.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/sachinpatil19-cyber-security">GitHub</a></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/sachinpatil19-cyber-security">GitHub</a> &middot; <a href="https://sachincybersecurity.page.gd/">Portfolio</a></td>
 </tr>
 </table>
 
