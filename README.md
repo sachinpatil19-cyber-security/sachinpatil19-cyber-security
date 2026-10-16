@@ -182,22 +182,9 @@ Manual testing of my own live PHP/MySQL portfolio and admin panel using Burp Sui
 
 <img src="./assets/animated-scanline.svg" width="100%" alt="Animated cyber scanline divider" />
 
-## `05 / ACTIVITY MONITOR`
 
-<div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachinpatil19-cyber-security&bg_color=070b14&color=00f5ff&line=a855f7&point=00ff9c&area=true&hide_border=true&custom_title=OPERATOR%20ACTIVITY%20STREAM" alt="GitHub activity graph" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sachinpatil19-cyber-security&show_icons=true&hide_border=true&bg_color=070b14&title_color=00f5ff&icon_color=a855f7&text_color=c9d1d9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinpatil19-cyber-security&layout=compact&hide_border=true&bg_color=070b14&title_color=00f5ff&text_color=c9d1d9" alt="Top languages" />
-
-<img width="100%" src="https://streak-stats.demolab.com?user=sachinpatil19-cyber-security&theme=dark&hide_border=true&background=070b14&ring=00f5ff&fire=a855f7&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=94a3b8" alt="GitHub streak stats" />
-
-</div>
-
----
-
-## `06 / ESTABLISH CONNECTION`
+## `05 / ESTABLISH CONNECTION`
 
 <div align="center">
 
