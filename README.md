@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="./assets/cyber-command-center.svg" width="100%" alt="Sachin Patil Cybersecurity Command Center" />
@@ -6,7 +7,7 @@
 
 <a href="https://github.com/sachinpatil19-cyber-security"><img src="https://img.shields.io/badge/GITHUB-ACCESS%20NODE-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
 <a href="https://github.com/sachinpatil19-cyber-security/my-website-security-report"><img src="https://img.shields.io/badge/FEATURED%20MISSION-WEBSITE%20SECURITY%20REPORT-A855F7?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Featured security report" /></a>
-<a href="https://sachincybersecurity.page.gd/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN%20SITE-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+<a href="https://sachincybersecurity.site.je/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN%20SITE-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
 
 </div>
 
@@ -82,7 +83,8 @@ A documented web application security assessment of my own portfolio website.
 
 ### `OTHER SECURITY LABS`
 
-**Web Application Penetration Testing**  
+**Web Application Penetration Testing**
+
 Practice and research across common web security classes, including SQL injection, cross-site scripting, access-control weaknesses, authentication issues, and security misconfiguration. Testing is performed only on owned or authorized environments.
 
 ---
@@ -139,14 +141,21 @@ Practice and research across common web security classes, including SQL injectio
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/SOPHOS-CERTIFIED-00FF9C?style=for-the-badge&logo=sophos&logoColor=white" alt="Sophos certified" />
+<img src="https://img.shields.io/badge/C3SA-CERTIFIED-00F5FF?style=for-the-badge" alt="C3SA certification" />
+
+**C3SA**
+
+</td>
+<td align="center" width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/SOPHOS-CERTIFIED-00FF9C?style=for-the-badge&logo=sophos&logoColor=white" alt="Sophos certification" />
 
 **Sophos Central Endpoint Protection Engineer**
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/CEH-IN%20PROGRESS-A855F7?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CEH in progress" />
 
@@ -180,7 +189,7 @@ Practice and research across common web security classes, including SQL injectio
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=%3E+READY+FOR+THE+NEXT+ENGAGEMENT;%3E+LET%E2%80%99S+MAKE+SYSTEMS+MORE+SECURE" alt="Contact terminal animation" />
 
 <a href="https://github.com/sachinpatil19-cyber-security"><img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub repositories" /></a>
-<a href="https://sachincybersecurity.page.gd/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
+<a href="https://sachincybersecurity.site.je/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
 
 <br/><br/>
 
