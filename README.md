@@ -6,7 +6,7 @@
 
 <a href="https://github.com/sachinpatil19-cyber-security"><img src="https://img.shields.io/badge/GITHUB-ACCESS%20NODE-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
 <a href="https://github.com/sachinpatil19-cyber-security/my-website-security-report"><img src="https://img.shields.io/badge/FEATURED%20MISSION-WEBSITE%20SECURITY%20REPORT-A855F7?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Featured security report" /></a>
-<a href="https://sachincybersecurity.page.gd/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN%20SITE-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+<a href="https://https://sachincybersecurity.site.je/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN%20SITE-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
 
 </div>
 
@@ -180,7 +180,7 @@ Practice and research across common web security classes, including SQL injectio
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=%3E+READY+FOR+THE+NEXT+ENGAGEMENT;%3E+LET%E2%80%99S+MAKE+SYSTEMS+MORE+SECURE" alt="Contact terminal animation" />
 
 <a href="https://github.com/sachinpatil19-cyber-security"><img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub repositories" /></a>
-<a href="https://sachincybersecurity.page.gd/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
+<a href="https://https://sachincybersecurity.site.je/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
 
 <br/><br/>
 
