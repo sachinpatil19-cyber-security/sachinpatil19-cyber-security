@@ -92,16 +92,6 @@ Manual testing of my own live PHP/MySQL portfolio and admin panel using Burp Sui
 
 ---
 
-## `02.1 / SOC OPERATIONS`
-
-**SOC Trainee — EyeQ Technologies, Thane** · *August 2025 – February 2026*
-
-- Investigated phishing, malware, and suspicious-activity alerts and escalated confirmed threats according to SOC procedures.
-- Enriched Indicators of Compromise (IOCs) using VirusTotal and AbuseIPDB to support investigation and triage.
-- Documented incident findings through ticketing and escalation workflows.
-
----
-
 ## `03 / TECHNICAL ARSENAL`
 
 <table>
@@ -182,22 +172,10 @@ Manual testing of my own live PHP/MySQL portfolio and admin panel using Burp Sui
 
 <img src="./assets/animated-scanline.svg" width="100%" alt="Animated cyber scanline divider" />
 
-## `05 / ACTIVITY MONITOR`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachinpatil19-cyber-security&bg_color=070b14&color=ff2b2b&line=ff3b3b&point=ff3b3b&area=true&hide_border=true&custom_title=OPERATOR%20ACTIVITY%20STREAM" alt="GitHub activity graph" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sachinpatil19-cyber-security&show_icons=true&hide_border=true&bg_color=070b14&title_color=ff2b2b&icon_color=ff3b3b&text_color=c9d1d9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinpatil19-cyber-security&layout=compact&hide_border=true&bg_color=070b14&title_color=ff2b2b&text_color=c9d1d9" alt="Top languages" />
-
-<img width="100%" src="https://streak-stats.demolab.com?user=sachinpatil19-cyber-security&theme=dark&hide_border=true&background=070b14&ring=ff2b2b&fire=a855f7&currStreakLabel=ff2b2b&sideLabels=ff2b2b&dates=94a3b8" alt="GitHub streak stats" />
-
-</div>
 
 ---
 
-## `06 / ESTABLISH CONNECTION`
+## `05 / ESTABLISH CONNECTION`
 
 <div align="center">
 
