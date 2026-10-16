@@ -1,4 +1,25 @@
+<div align="center">
 
+<img
+  src="./assets/cyber-command-center.svg"
+  width="100%"
+  alt="Sachin Patil Cybersecurity Command Center"
+/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=760&lines=%3E+WEB+APPLICATION+PENETRATION+TESTING;%3E+RECON+%2F+VALIDATE+%2F+REPORT;%3E+SECURITY+IS+A+PROCESS%2C+NOT+A+PRODUCT"
+  alt="Animated cybersecurity terminal tagline"
+/>
+
+<a href="https://github.com/sachinpatil19-cyber-security/my-website-security-report">
+  <img src="https://img.shields.io/badge/FEATURED%20MISSION-SECURITY%20REPORT-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Featured security report" />
+</a>
+
+<a href="https://sachincybersecurity.site.je/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-OPEN%20SITE-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio website" />
+</a>
+
+</div>
 
 
 
