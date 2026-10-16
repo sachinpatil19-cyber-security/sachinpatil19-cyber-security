@@ -37,7 +37,7 @@ I focus on finding, validating, and clearly documenting security weaknesses so t
 |---|---|
 | Web VAPT | `ACTIVE` |
 | API Testing | `ACTIVE` |
-| Security Reporting | `ACTIVE` |
+| network Security | `ACTIVE` |
 | CEH | `IN PROGRESS` |
 
 </td>
