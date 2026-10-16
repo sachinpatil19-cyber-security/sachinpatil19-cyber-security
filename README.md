@@ -125,7 +125,7 @@ Manual testing of my own live PHP/MySQL portfolio and admin panel using Burp Sui
 
 ### `// NETWORK`
 
-`TCP/IP` · `DNS` · `DHCP` · `HTTP/S` · `SSL/TLS` · `OSI Model` · `Network & Service Enumeration`
+`Nessus` · `VACA` · `DHCP` · `HTTP/S` · `SSL/TLS` · `OSI Model` · `Network & Service Enumeration`
 
 </td>
 <td valign="top">
