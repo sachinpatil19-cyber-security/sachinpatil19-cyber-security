@@ -92,16 +92,6 @@ Manual testing of my own live PHP/MySQL portfolio and admin panel using Burp Sui
 
 ---
 
-## `02.1 / SOC OPERATIONS`
-
-**SOC Trainee — EyeQ Technologies, Thane** · *August 2025 – February 2026*
-
-- Investigated phishing, malware, and suspicious-activity alerts and escalated confirmed threats according to SOC procedures.
-- Enriched Indicators of Compromise (IOCs) using VirusTotal and AbuseIPDB to support investigation and triage.
-- Documented incident findings through ticketing and escalation workflows.
-
----
-
 ## `03 / TECHNICAL ARSENAL`
 
 <table>
